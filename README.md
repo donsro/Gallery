@@ -6,6 +6,6 @@
 
 ### Test assignment requirements
 
- - Use *Flickr* API to get a list of photos (items) and display it on the page.
+ - Use Flickr API to get a list of photos (items) and display it on the page.
  - Paginate the list 10 photos per page.
  - When the user clicks on the photo, show it in an overlay.
